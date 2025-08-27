@@ -60,10 +60,68 @@ Transition : ou encore
 * J'ai entendu le terme event storming, je suis allé voir, j'ai aimé le concept et creusé
 * J'ai entendu parler des hooks React, j'ai lu deux, trois trucs, j'ai pas aimé, j'ai laissé de côté.
 
-Transition : Et globalement, si j'aime un sujet, et je rappelle, peu iomporte lequel => j'en fait un projet
+Transition : Et globalement, si j'aime un sujet, et je rappelle, peu importe lequel => j'en fait un projet
 ====
 
 == Side-project
+
+[NOTE.speaker]
+====
+* Faire des sides projects est probablement un des meilleurs moyens de faire de la veille
+* Nous avons tous des projets commencés mais non finis, sur lesquels il y a 3 commits et demi.
+* Qu'on a laissé de côté depuis 3 ans, seul, isolés, triste, oublié de tous
+
+Transition : Tant pis pour eux
+====
+
+== Pourquoi l'abandon
+
+[NOTE.speaker]
+====
+* Je me suis demandé pourquoi je n'arrivais à les continuer, la réponse est simple
+* Mon objectif était atteint
+* Je voulais tester un truc, je l'ai fait, j'ai compris comment ça marche, j'ai pas envie d'aller plus loin
+
+Transition : un exemple
+====
+
+== FrankenPHP
+
+[NOTE.speaker]
+====
+* Sorti d'un nouveau truc en PHP qui aurait pu me permettre de faire du SSE avec conservation d'état
+* Mon idée : faire un tchat pour valider la techno, puis un moteur de jeu
+* J'ai passé beaucoup de 30 minutes, à lire de la doc, tester, me planter, recommencer
+* Je me suis régalé, et j'ai réussi à avoir mon premier échange SSE, mais impossible de gérer la conservation d'état
+* J'ai arrété, l'appli ne servait à rien, et j'avais la fleme en fait
+* Encore un pauvre petit projet à l'abandon
+
+Transition : MAIS
+====
+
+== Ce que j'ai appris et appliqué
+
+[NOTE.speaker]
+====
+* Le fonctionnement précis du SSE
+* Les mises à jour de Symfony
+* Le fonctionnement du coeur du framework en précision
+* Les mises à jour dans l'écosystème PHP
+* J'ai creuser FrankenPHP, en Go, et le fonctionnement d'un nouveau serveur web Caddy
+* et encore plein d'autres trucs
+
+Transition : pour conclure sur les sides projects
+====
+
+== Faites en plein
+
+[NOTE.speaker]
+====
+* C'est en forgeant qu'on devient forgeron, lire c'est indispensable, mais pas suffisant
+* Et tant mieux si vous avez plein de projet à l'abandon (pas tous, on s'entend bien), ça veut dire que vous avez essayé plein de truc
+
+Transition : Mais on peut d'autre chose pendant ces 30 minutes
+====
 
 == Workspace
 
