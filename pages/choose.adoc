@@ -1,0 +1,74 @@
+= 30 minutes
+
+[NOTE.speaker]
+====
+* Offrez-vous 30 minutes par jour
+* Sur les heures de travail
+* Avant de raler ou de dire "ce n'est pas possible"
+* Partez du principe que vous avez ces 30 minutes uniquement pour ça
+* Mais vraiment 30 minutes sans pression, j'insiste
+* On ne fait pas la course, on a le temps de prendre ce temps
+
+Transition : Qu'est-ce qu'on peut faire pendant ces 30 minutes ?
+====
+
+== Choisir
+
+[NOTE.speaker]
+====
+* Si vous avez déjà des idées, jetez-vous dessus
+* Sinon, prenez le temps pour allez vers des sources d'informations
+* Peu importe le temps que ça prendra
+* 1 fois, 2 fois, 3 fois 30 minutes, peu importe
+* Lisez, chercher, naviguez, organisez, etc .
+* Perso, je peux passer une semaine de 30 minutes à trier mes flux d'info, en chercher d'autre
+* Cette espace de temps peut juste vous permettre de vous organisez
+
+Transition : d'ailleurs, la veille ça commence souvent par
+====
+
+== Lire
+
+[NOTE.speaker]
+====
+* Si j'ai des articles que je veux, et j'insiste sur le "veux" lire
+* Ben je les lis
+* Personnellement, ça me sert surtout à savoir sur quel sujet je vais jeter mon dévolu
+* Ne posez aucune limite en terme de contexte, techno, sujet
+* Ce temps est à vous, faites-en ce que vous voulez
+
+Transition : prenons un exemple
+
+====
+
+== CI/CD IA
+
+[NOTE.speaker]
+====
+* je me suis demandé comment faire de la CI avec de l'IA
+* je me suis rendu compte que je ne savais même pas ce qu'était un projet IA
+* Du coup, je me suis retrouvé à lire des articles sur Python
+* Sur le fonctionnement du MLOps, et sur les problèmatiques de clusterisation
+
+Transition : ou encore
+====
+
+== D'autres exemples
+
+[NOTE.speaker]
+====
+* J'ai entendu le terme event storming, je suis allé voir, j'ai aimé le concept et creusé
+* J'ai entendu parler des hooks React, j'ai lu deux, trois trucs, j'ai pas aimé, j'ai laissé de côté.
+
+Transition : Et globalement, si j'aime un sujet, et je rappelle, peu iomporte lequel => j'en fait un projet
+====
+
+== Side-project
+
+== Workspace
+
+== Share
+
+Conf, article
+
+== Social Network

@@ -1,0 +1,76 @@
+= Veille technologique
+
+[NOTE.speaker]
+====
+* A côté de nos taches quotidiennes de constructeur de l'univers numérique
+* Beaucoup de chose à faire ou qu'on aimerait faire :
+** De la veille, pour rester à jour principalement
+** Ecrire des articles, conférences pour partager
+** Du mentorat, indispensable
+** Construire un reseau pro
+
+Transition : Et tout ça, ben ça demande du
+====
+
+== Temps
+
+[NOTE.speaker]
+====
+* On ne va pas partir dans des réflexions métaphysiques
+* Mais c'est une notion qui peut frustrer
+* Car on manque souvent
+* Plus précisement :
+** On ne le prend pas
+** On ne nous en donne pas
+
+Transition : La veille est pourtant une élément indispensable de nos métiers, mais c'est quoi précisement ?
+====
+
+== "Faire sa veille"
+
+[NOTE.speaker]
+====
+* On dirait une discussion parent/enfant : "Est-ce tu as bien fait ta veille ?"
+* C'est un terme ambigü et très relatif à la personne
+** Lire des articles, suivre des flux, etc.
+* On fait ou essaye de faire notre veille pour rester à jour
+
+Transition : mais dans le monde de l'IT, c'est grand
+====
+
+== IT Universe
+
+[NOTE.speaker]
+====
+* Trop grand pour tout suivre
+* Donc il va falloir trier et être efficient
+
+Transition : Et ça, ce n'est pas simple
+====
+
+== Une veille efficace
+
+* Selon moi
+
+[NOTE.speaker]
+====
+Selon moi, une veille efficace permet de :
+* rester à jour de l'actualité générales, pour connaitre un peu l'état du monde de l'IT
+* Rester à l'état de l'art sur vos sujets de prédilections
+* Partagez
+
+Transition: Mais surtout
+
+====
+
+== Essayer !
+
+[NOTE.speaker]
+====
+* Il n'y a des secrets
+* Pour comprendre et apprendre, il faut mettre les mains dedans
+
+Transition : Mais avec tout ça à faire, il faut bien prendre un peu de temps et choisir
+====
+
+

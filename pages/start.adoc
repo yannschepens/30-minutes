@@ -1,0 +1,42 @@
+= Prenons quelques secondes
+:imagesdir: assets/default/images
+
+[NOTE.speaker]
+====
+* On respire, je veux vous entendre
+* On se détend, on est ici pour prendre un peu notre temps
+* Quelques questions à main levée :
+** Qui fait de la veille ?
+** Qui fait de la veille sur son temps de travail ?
+** Qui a du temps prévu pour faire de la veille, écrire des articles, des confs, etc. ?
+** Qui manque de temps ?
+
+Très bien, je vais vous proposer une solution que j'applique depuis des années maintenant.
+
+Transition : Mais d'abord, qui suis-je ?
+====
+
+== !
+
+image::yann.png[]
+
+[NOTE.speaker]
+====
+* Tech lead Onepoint depuis 6 ans
+* 15 ans de carrière dans le web d'abord puis dans le devops
+* Vu et tester beaucoup de technos
+* Ecris quelques articles
+* Donner quelques conférences
+* Former à la séc', à l'a11y, etc.
+* Tout en étant en ESN
+====
+
+== Comment diable est-ce possible ?
+
+[NOTE.speaker]
+====
+* Avec un taux d'occupation à 100%
+* Moins vrai ajd
+
+Transition : Revenons à la base
+====
