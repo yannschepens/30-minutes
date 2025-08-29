@@ -29,7 +29,7 @@ include::pages/start.adoc[leveloffset=+1]
 include::pages/veille.adoc[leveloffset=+1]
 include::pages/choose.adoc[leveloffset=+1]
 include::pages/how.adoc[leveloffset=+1]
-include::pages/end-of-day.adoc[leveloffset=+1]
+include::pages/conclusion.adoc[leveloffset=+1]
 include::pages/end.adoc[leveloffset=+1]
 
 

@@ -125,8 +125,50 @@ Transition : Mais on peut d'autre chose pendant ces 30 minutes
 
 == Workspace
 
+[NOTE.speaker]
+====
+* La flème de coder ou de faire de la tech ?
+* Nettoyer votre ordi
+** Interieur, exterieur
+* Changer les thèmes de vos outils
+* Reorganisez une fois, deux fois, trois fois vos repertoires
+* Reglez les trucs chiants : le casque USB se déco tout seul, les mises à jour en attente, les network docker, etc...
+
+* Par exemple, régulièrement, je teste des outils de prise de note, je recherche tout des nouveaux trus
+* Globalement, rendez votre espace de travail agréable, faites du propre, ça fait du bien
+
+Transition : Tout ce que vous faites peut aussi interesser les autres
+====
+
 == Share
 
-Conf, article
+[NOTE.speaker]
+====
+* Comme je vous l'ai, j'écris quelques articles et donne quelques confs'
+* Profiter de ce temps pour faire ça, vous n'avez pas de deadline
+* De notre côté, on a réussi à gratter du temps officiel pour le faire, mais ce n'est pas toujours suffisant
+* Profitez de cette demi-heure pour faire çà
+* "Ce n'est pas de veille ?"
+* Ben en fait si, écrire un article ou préparer une conf vous force à allez au bout de la connaissance
+* Vous habitue à la rédaction et/ou technique orale
+
+* 30 minutes n'est pas suffisant ! Non, c'est vrai, mais entre les sessions, votre cerveau continue de travailler
+* Et en revenant dessus régulièrement, vous serez plus critique sur votre propre travail
+
+Transition : Et quand vous faites ça, un autre aspect du métier qui prend du temps pointe le bout de son nez
+====
+
 
 == Social Network
+
+[NOTE.speaker]
+====
+* Prenez soin de vos réseaux pro
+* Publier des trucs que vous avez fait, vu lu
+* Répondez sur LinkedIn, y'a des humains (des fois) au bout du fil
+* Créer des contacts, discutez avec des gens
+* Prenez la température de notre milieu
+* Profitez des dramas et du sadisme de ce milieu, et rigolez bien en lisant les post des coachs en tout genre
+
+Transition : On a fait un bon tour mais il reste un point qu'on a laissé de côté trop longtemps
+====

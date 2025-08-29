@@ -1,5 +1,77 @@
 = C'est facile à dire
 
+[NOTE.speaker]
+====
+* C'est facile à dire "Prend une demi-heure par jour pour toi"
+* "J'ai déjà un emploi du temps de ouf"
+* "Mes projets sont déjà en retard"
+* "Je suis sur que je déborderai"
+
+* Transition : prenons les deux sujets dans l'ordre
+====
+
 == Les urgences n'existent pas
 
+[NOTE.speaker]
+====
+* "Je n'ai pas le temps"... Quelle phrase agaçante.
+* A quel niveau d'urgence êtes-vous pour ne pas pouvoir vous libérer 30 minutes dans votre journée de travail ?
+
+* Hors exception, nous sommes n'avons pas besoin d'une réactivité à la demi-heure
+* Bien au contraire, souvent, c'est qu'on a pris assez le temps
+
+Transition : De mon point de vue, et j'aimerais vraiment que vous gardiez ça en tête, voir remettre les pieds sur Terre pour certains, il n'y a que deux types d'urgence dans nos métiers
+====
+
+== Les vraies urgences
+
+[NOTE.speaker]
+====
+* Les urgences personnelles : la vie privée est plus importante que la vie pro et je repète, dans nos jobs. C'est la seule vraie et unique urgence
+* Une prod qui tombe : Oui, ça peut mettre en péril pas mal de chose, donc c'est une urgence.
+** Mais restons mesuré quand même, un site institutionnel qui tombe à 2 heures du mat', on s'en fout
+** Un système de maintien en survie dans un hopital : oui, c'est une raison de courir, mais ce n'est clairement pas le quotidien de chacun
+** Entre le CHU et le site institutionnel du club de jeune de la ville, y'a un gouffre
+
+* Tout le reste peut être "Pressé", "Important" en aucun cas urgent. D'autant plus que dans les situations de stress,
+* Faire le vide en faisant autre chose est souvent bénéfique
+
+Transition : Parlons du second point, le débordement de cette demi-heure
+====
+
 == Rigueur
+
+[NOTE.speaker]
+====
+* 30 minutes, c'est 30 minutes
+* Souvent ces 30 minutes vont être plus sympa que votre boulot quotidien, c'est le but aussi
+* Mais soyez rigoureux, posez des limites
+
+* Personnellement, je me donne un créneau la matin. Du moment où j'allume mon ordinateur jusqu'à mon premier daily.
+* Point !
+
+* Le respect de ces 30 minutes, comme une sieste de 20 minutes est important.
+* Si vous passez deux heures à faire de la veille, ce n'est plus une veille, c'est une étude
+* Votre approche sera différentes et votre cerveau ne traitera pas l'information de la même manière
+
+Transition : Un dernier point que je souhaite aborder et qui me parait simple mais fondamentale
+====
+
+== Eteignez votre ordinateur le soir
+
+[NOTE.speaker]
+====
+* Si lorsque vous vous remettez devant votre écran, vous avez déjà tout d'ouvert, vous retombez tout de suite à votre quotidien
+* Vous n'avez pas le temps de vous remettre tranquillement au boulot
+* Vous ne faites plus des journées de 8heures, mais des journées d'une semaine avec des grandes pauses
+* Ce n'est pas la même chose
+
+* Eteignez votre ordi le soir, rallumez-le le matin.
+** Ouvrez votre boite mail pour si il y a une VRAIE urgence, puis refermez la.
+** Prenez vos 30 minutes et seulement après lancer les tchats, outils, navigateurs
+** Prenez le temps de vous reveiller
+
+* Et ça ne fera pas mal de à votre matos et à la planète
+
+Transition : pour conclure
+====
