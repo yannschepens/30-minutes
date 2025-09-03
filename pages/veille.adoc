@@ -1,4 +1,8 @@
+[%notitle]
 = Veille technologique
+:imagesdir: assets/default/images
+
+image::illustrations/hubble.png[background, size=cover]
 
 [NOTE.speaker]
 ====
@@ -12,7 +16,9 @@
 Transition : Et tout ça, ben ça demande du
 ====
 
+[%notitle]
 == Temps
+image::illustrations/hubble.png[background, size=cover]
 
 [NOTE.speaker]
 ====
@@ -26,7 +32,9 @@ Transition : Et tout ça, ben ça demande du
 Transition : La veille est pourtant une élément indispensable de nos métiers, mais c'est quoi précisement ?
 ====
 
+[%notitle]
 == "Faire sa veille"
+image::illustrations/hubble.png[background, size=cover]
 
 [NOTE.speaker]
 ====
@@ -38,7 +46,9 @@ Transition : La veille est pourtant une élément indispensable de nos métiers,
 Transition : mais dans le monde de l'IT, c'est grand
 ====
 
+[%notitle]
 == IT Universe
+image::illustrations/hubble.png[background, size=cover]
 
 [NOTE.speaker]
 ====
@@ -48,9 +58,9 @@ Transition : mais dans le monde de l'IT, c'est grand
 Transition : Et ça, ce n'est pas simple
 ====
 
+[%notitle]
 == Une veille efficace
-
-* Selon moi
+image::illustrations/hubble.png[background, size=cover]
 
 [NOTE.speaker]
 ====
@@ -63,7 +73,9 @@ Transition: Mais surtout
 
 ====
 
+[%notitle]
 == Essayer !
+image::illustrations/hubble.png[background, size=cover]
 
 [NOTE.speaker]
 ====

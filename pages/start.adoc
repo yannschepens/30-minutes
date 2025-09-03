@@ -1,5 +1,8 @@
+[%notitle]
 = Prenons quelques secondes
 :imagesdir: assets/default/images
+
+image::assets/default/images/illustrations/zen.png[background, size=cover]
 
 [NOTE.speaker]
 ====
@@ -18,7 +21,9 @@ Transition : Mais d'abord, qui suis-je ?
 
 == !
 
-image::yann.png[]
+//image::yann.png[]
+
+image::illustrations/zen.png[background, size=cover]
 
 [NOTE.speaker]
 ====
@@ -31,7 +36,10 @@ image::yann.png[]
 * Tout en étant en ESN
 ====
 
+[%notitle]
 == Comment diable est-ce possible ?
+
+image::illustrations/zen.png[background, size=cover]
 
 [NOTE.speaker]
 ====
