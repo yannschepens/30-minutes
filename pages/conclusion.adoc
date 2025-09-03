@@ -1,4 +1,8 @@
+[%notitle]
 = Prenez 30 minutes pour vous
+:imagesdir: assets/default/images
+
+image::illustrations/slow-life.png[background, size=cover]
 
 [NOTE.speaker]
 ====

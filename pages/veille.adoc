@@ -65,6 +65,7 @@ image::illustrations/hubble.png[background, size=cover]
 [NOTE.speaker]
 ====
 Selon moi, une veille efficace permet de :
+
 * rester à jour de l'actualité générales, pour connaitre un peu l'état du monde de l'IT
 * Rester à l'état de l'art sur vos sujets de prédilections
 * Partagez

@@ -1,4 +1,9 @@
+[%notitle]
 = C'est facile à dire
+:imagesdir: assets/default/images
+
+image::illustrations/zen-grey.png[background, size=cover]
+
 
 [NOTE.speaker]
 ====
@@ -10,7 +15,10 @@
 * Transition : prenons les deux sujets dans l'ordre
 ====
 
+[%notitle]
 == Les urgences n'existent pas
+
+image::illustrations/zen-grey.png[background, size=cover]
 
 [NOTE.speaker]
 ====
@@ -23,7 +31,10 @@
 Transition : De mon point de vue, et j'aimerais vraiment que vous gardiez ça en tête, voir remettre les pieds sur Terre pour certains, il n'y a que deux types d'urgence dans nos métiers
 ====
 
+[%notitle]
 == Les vraies urgences
+
+image::illustrations/zen-grey.png[background, size=cover]
 
 [NOTE.speaker]
 ====
@@ -39,7 +50,10 @@ Transition : De mon point de vue, et j'aimerais vraiment que vous gardiez ça en
 Transition : Parlons du second point, le débordement de cette demi-heure
 ====
 
+[%notitle]
 == Rigueur
+
+image::illustrations/zen-grey.png[background, size=cover]
 
 [NOTE.speaker]
 ====
@@ -57,7 +71,10 @@ Transition : Parlons du second point, le débordement de cette demi-heure
 Transition : Un dernier point que je souhaite aborder et qui me parait simple mais fondamentale
 ====
 
+[%notitle]
 == Eteignez votre ordinateur le soir
+
+image::illustrations/zen-grey.png[background, size=cover]
 
 [NOTE.speaker]
 ====
