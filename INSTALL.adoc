@@ -5,3 +5,6 @@
 docker compose run --rm node npm i
 docker compose up -d
 ----
+
+
+NOTE: icon fonts pack : https://www.flaticon.com/authors/yuttapong/lineal?author_id=289&type=standard
