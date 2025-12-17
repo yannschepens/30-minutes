@@ -1,8 +1,11 @@
+[.conclusion]
 [%notitle]
 = Prenez 30 minutes pour vous
 :imagesdir: assets/default/images
 
 image::illustrations/slow-life.png[background, size=cover]
+
+30 minutes pour vous
 
 [NOTE.speaker]
 ====

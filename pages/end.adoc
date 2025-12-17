@@ -1,1 +1,7 @@
 = Merci, des questions ?
+:imagesdir: assets/default/images
+
+image::illustrations/zen.png[background, size=cover]
+
+[.qrcode]
+image::qrcode.png[]

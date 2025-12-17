@@ -1,9 +1,10 @@
+[.how]
 [%notitle]
 = C'est facile à dire
 :imagesdir: assets/default/images
 
 image::illustrations/zen-grey.png[background, size=cover]
-
+Vous avez le temps
 
 [NOTE.speaker]
 ====
@@ -15,10 +16,13 @@ image::illustrations/zen-grey.png[background, size=cover]
 * Transition : prenons les deux sujets dans l'ordre
 ====
 
+[.how]
 [%notitle]
 == Les urgences n'existent pas
 
 image::illustrations/zen-grey.png[background, size=cover]
+
+Urgences ?
 
 [NOTE.speaker]
 ====
@@ -31,10 +35,13 @@ image::illustrations/zen-grey.png[background, size=cover]
 Transition : De mon point de vue, et j'aimerais vraiment que vous gardiez ça en tête, voir remettre les pieds sur Terre pour certains, il n'y a que deux types d'urgence dans nos métiers
 ====
 
+[.how]
 [%notitle]
 == Les vraies urgences
 
 image::illustrations/zen-grey.png[background, size=cover]
+
+Urgences !
 
 [NOTE.speaker]
 ====
@@ -50,10 +57,13 @@ image::illustrations/zen-grey.png[background, size=cover]
 Transition : Parlons du second point, le débordement de cette demi-heure
 ====
 
+[.how]
 [%notitle]
 == Rigueur
 
 image::illustrations/zen-grey.png[background, size=cover]
+
+30 minutes
 
 [NOTE.speaker]
 ====
@@ -71,10 +81,13 @@ image::illustrations/zen-grey.png[background, size=cover]
 Transition : Un dernier point que je souhaite aborder et qui me parait simple mais fondamentale
 ====
 
+[.how]
 [%notitle]
 == Eteignez votre ordinateur le soir
 
 image::illustrations/zen-grey.png[background, size=cover]
+
+Shutdown
 
 [NOTE.speaker]
 ====

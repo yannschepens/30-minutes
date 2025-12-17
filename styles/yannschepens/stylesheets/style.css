@@ -87,11 +87,21 @@ code {
 }
 
 .choose .slide-content .paragraph {
-    margin-right: -150px;
-    text-align: right;
+    padding-left: 100%;
+    text-align: left;
     color: black;
 }
 
 .choose-workspace .slide-content .paragraph {
     margin-right: -20px;
+}
+
+.how .slide-content .paragraph {
+    text-align: left;
+    color: black;
+}
+
+.conclusion .slide-content .paragraph {
+    text-align: right;
+    color: black;
 }
