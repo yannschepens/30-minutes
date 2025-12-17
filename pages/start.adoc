@@ -2,6 +2,8 @@
 = Prenons quelques secondes
 :imagesdir: assets/default/images
 
+Prenons le temps
+
 image::assets/default/images/illustrations/zen.png[background, size=cover]
 
 [NOTE.speaker]
@@ -23,6 +25,8 @@ Transition : Mais d'abord, qui suis-je ?
 
 //image::yann.png[]
 
+de faire
+
 image::illustrations/zen.png[background, size=cover]
 
 [NOTE.speaker]
@@ -40,6 +44,8 @@ image::illustrations/zen.png[background, size=cover]
 == Comment diable est-ce possible ?
 
 image::illustrations/zen.png[background, size=cover]
+
+de la veille
 
 [NOTE.speaker]
 ====

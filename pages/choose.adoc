@@ -1,8 +1,11 @@
+[.choose]
 [%notitle]
 = 30 minutes
 :imagesdir: assets/default/images
 
 image::illustrations/working-zen.png[background, size=cover]
+
+30 minutes
 
 [NOTE.speaker]
 ====
@@ -16,10 +19,13 @@ image::illustrations/working-zen.png[background, size=cover]
 Transition : Qu'est-ce qu'on peut faire pendant ces 30 minutes ?
 ====
 
+[.choose]
 [%notitle]
 == Choisir
 
 image::illustrations/working-zen.png[background, size=cover]
+
+Choisir
 
 [NOTE.speaker]
 ====
@@ -34,10 +40,13 @@ image::illustrations/working-zen.png[background, size=cover]
 Transition : d'ailleurs, la veille ça commence souvent par
 ====
 
+[.choose]
 [%notitle]
 == Lire
 
 image::illustrations/working-zen.png[background, size=cover]
+
+Lire
 
 [NOTE.speaker]
 ====
@@ -51,10 +60,13 @@ Transition : prenons un exemple
 
 ====
 
+[.choose]
 [%notitle]
 == CI/CD IA
 
 image::illustrations/working-zen.png[background, size=cover]
+
+Tester
 
 [NOTE.speaker]
 ====
@@ -66,10 +78,13 @@ image::illustrations/working-zen.png[background, size=cover]
 Transition : ou encore
 ====
 
+[.choose]
 [%notitle]
 == D'autres exemples
 
 image::illustrations/working-zen.png[background, size=cover]
+
+Ouverture
 
 [NOTE.speaker]
 ====
@@ -79,10 +94,13 @@ image::illustrations/working-zen.png[background, size=cover]
 Transition : Et globalement, si j'aime un sujet, et je rappelle, peu importe lequel => j'en fait un projet
 ====
 
+[.choose]
 [%notitle]
 == Side-project
 
 image::illustrations/working-zen.png[background, size=cover]
+
+Sides
 
 [NOTE.speaker]
 ====
@@ -93,10 +111,13 @@ image::illustrations/working-zen.png[background, size=cover]
 Transition : Tant pis pour eux
 ====
 
+[.choose]
 [%notitle]
 == Pourquoi l'abandon
 
 image::illustrations/working-zen.png[background, size=cover]
+
+Objectifs
 
 [NOTE.speaker]
 ====
@@ -107,10 +128,13 @@ image::illustrations/working-zen.png[background, size=cover]
 Transition : un exemple
 ====
 
+[.choose]
 [%notitle]
 == FrankenPHP
 
 image::illustrations/working-zen.png[background, size=cover]
+
+Atteint
 
 [NOTE.speaker]
 ====
@@ -124,10 +148,13 @@ image::illustrations/working-zen.png[background, size=cover]
 Transition : MAIS
 ====
 
+[.choose]
 [%notitle]
 == Ce que j'ai appris et appliqué
 
 image::illustrations/working-zen.png[background, size=cover]
+
+Impact
 
 [NOTE.speaker]
 ====
@@ -141,10 +168,13 @@ image::illustrations/working-zen.png[background, size=cover]
 Transition : pour conclure sur les sides projects
 ====
 
+[.choose]
 [%notitle]
 == Faites en plein
 
 image::illustrations/working-zen.png[background, size=cover]
+
+Forger
 
 [NOTE.speaker]
 ====
@@ -154,10 +184,13 @@ image::illustrations/working-zen.png[background, size=cover]
 Transition : Mais on peut d'autre chose pendant ces 30 minutes
 ====
 
+[.choose-workspace]
 [%notitle]
 == Workspace
 
 image::illustrations/working-space.jpg[background, size=cover]
+
+Workspace
 
 [NOTE.speaker]
 ====
@@ -174,10 +207,13 @@ image::illustrations/working-space.jpg[background, size=cover]
 Transition : Tout ce que vous faites peut aussi interesser les autres
 ====
 
+[.choose-workspace]
 [%notitle]
 == Share
 
 image::illustrations/working-space.jpg[background, size=cover]
+
+Partager
 
 [NOTE.speaker]
 ====
@@ -195,10 +231,13 @@ image::illustrations/working-space.jpg[background, size=cover]
 Transition : Et quand vous faites ça, un autre aspect du métier qui prend du temps pointe le bout de son nez
 ====
 
+[.choose-workspace]
 [%notitle]
 == Social Network
 
 image::illustrations/working-space.jpg[background, size=cover]
+
+Réseaux
 
 [NOTE.speaker]
 ====

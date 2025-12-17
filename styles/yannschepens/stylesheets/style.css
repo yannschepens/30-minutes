@@ -79,3 +79,19 @@ code {
 }
 
 /* End of first page desing */
+
+/* Specifique */
+
+.veille-tech .slide-content .paragraph {
+    text-align: left;
+}
+
+.choose .slide-content .paragraph {
+    margin-right: -150px;
+    text-align: right;
+    color: black;
+}
+
+.choose-workspace .slide-content .paragraph {
+    margin-right: -20px;
+}

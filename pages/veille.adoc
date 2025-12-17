@@ -1,6 +1,9 @@
-[%notitle]
+[.veille-tech]
+[%notitle, transition=none]
 = Veille technologique
 :imagesdir: assets/default/images
+
+La veille techno
 
 image::illustrations/hubble.png[background, size=cover]
 
@@ -16,9 +19,12 @@ image::illustrations/hubble.png[background, size=cover]
 Transition : Et tout ça, ben ça demande du
 ====
 
+[.veille-tech]
 [%notitle]
 == Temps
 image::illustrations/hubble.png[background, size=cover]
+
+Pas le temps
 
 [NOTE.speaker]
 ====
@@ -32,9 +38,12 @@ image::illustrations/hubble.png[background, size=cover]
 Transition : La veille est pourtant une élément indispensable de nos métiers, mais c'est quoi précisement ?
 ====
 
+[.veille-tech]
 [%notitle]
 == "Faire sa veille"
 image::illustrations/hubble.png[background, size=cover]
+
+"Faire sa veille"
 
 [NOTE.speaker]
 ====
@@ -46,9 +55,12 @@ image::illustrations/hubble.png[background, size=cover]
 Transition : mais dans le monde de l'IT, c'est grand
 ====
 
+[.veille-tech]
 [%notitle]
 == IT Universe
 image::illustrations/hubble.png[background, size=cover]
+
+L'IT c'est grand
 
 [NOTE.speaker]
 ====
@@ -58,9 +70,12 @@ image::illustrations/hubble.png[background, size=cover]
 Transition : Et ça, ce n'est pas simple
 ====
 
+[.veille-tech]
 [%notitle]
 == Une veille efficace
 image::illustrations/hubble.png[background, size=cover]
+
+Efficience
 
 [NOTE.speaker]
 ====
@@ -74,9 +89,12 @@ Transition: Mais surtout
 
 ====
 
+[.veille-tech]
 [%notitle]
 == Essayer !
 image::illustrations/hubble.png[background, size=cover]
+
+Pratique
 
 [NOTE.speaker]
 ====
