@@ -23,7 +23,7 @@ a|[.yann-intro-title]
 Tricher pour mieux apprendre : 30 minutes par jour
 
 [.yann-intro-event]
-eTech Day : 19 sept. 2025
+Touraine Tech : 13 dev. 2026
 |===
 
 include::pages/start.adoc[leveloffset=+1]
