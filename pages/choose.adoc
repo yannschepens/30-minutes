@@ -34,7 +34,7 @@ Choisir
 * Peu importe le temps que ça prendra
 * 1 fois, 2 fois, 3 fois 30 minutes, peu importe
 * Lisez, chercher, naviguez, organisez, etc .
-* Perso, je peux passer une semaine de 30 minutes à trier mes flux d'info, en chercher d'autre
+* Perso, je peux passer 5 sessions de 30 minutes (une semaine) à trier mes flux d'info, en chercher d'autre
 * Cette espace de temps peut juste vous permettre de vous organisez
 
 Transition : d'ailleurs, la veille ça commence souvent par
@@ -50,10 +50,11 @@ Lire
 
 [NOTE.speaker]
 ====
+* Lire
 * Si j'ai des articles que je veux, et j'insiste sur le "veux" lire
 * Ben je les lis
 * Personnellement, ça me sert surtout à savoir sur quel sujet je vais jeter mon dévolu
-* Ne posez aucune limite en terme de contexte, techno, sujet
+* Ne vous posez aucune limite en terme de contexte, techno, sujet
 * Ce temps est à vous, faites-en ce que vous voulez
 
 Transition : prenons un exemple
@@ -158,6 +159,7 @@ Impact
 
 [NOTE.speaker]
 ====
+* J'ai appris plein de truc :
 * Le fonctionnement précis du SSE
 * Les mises à jour de Symfony
 * Le fonctionnement du coeur du framework en précision
@@ -178,6 +180,7 @@ Forger
 
 [NOTE.speaker]
 ====
+* Faites en plein
 * C'est en forgeant qu'on devient forgeron, lire c'est indispensable, mais pas suffisant
 * Et tant mieux si vous avez plein de projet à l'abandon (pas tous, on s'entend bien), ça veut dire que vous avez essayé plein de truc
 
@@ -199,9 +202,9 @@ Workspace
 ** Interieur, exterieur
 * Changer les thèmes de vos outils
 * Reorganisez une fois, deux fois, trois fois vos repertoires
-* Reglez les trucs chiants : le casque USB se déco tout seul, les mises à jour en attente, les network docker, etc...
+* Reglez les trucs chiants : le casque USB se déco tout seul, les mises à jour en attente, nettoyer les network docker, etc...
 
-* Par exemple, régulièrement, je teste des outils de prise de note, je recherche tout des nouveaux trus
+* Par exemple, régulièrement, je teste des outils de prise de note, je recherche toujours des nouveaux trucs/outils
 * Globalement, rendez votre espace de travail agréable, faites du propre, ça fait du bien
 
 Transition : Tout ce que vous faites peut aussi interesser les autres
@@ -217,15 +220,16 @@ Partager
 
 [NOTE.speaker]
 ====
+* Partagez !
 * Comme je vous l'ai, j'écris quelques articles et donne quelques confs'
 * Profiter de ce temps pour faire ça, vous n'avez pas de deadline
 * De notre côté, on a réussi à gratter du temps officiel pour le faire, mais ce n'est pas toujours suffisant
 * Profitez de cette demi-heure pour faire çà
-* "Ce n'est pas de veille ?"
+* Vous direz (peut-être) : "Ce n'est pas de veille ?"
 * Ben en fait si, écrire un article ou préparer une conf vous force à allez au bout de la connaissance
 * Vous habitue à la rédaction et/ou technique orale
 
-* 30 minutes n'est pas suffisant ! Non, c'est vrai, mais entre les sessions, votre cerveau continue de travailler
+* "30 minutes n'est pas suffisant !" Non, c'est vrai, mais entre les sessions, votre cerveau continue de travailler
 * Et en revenant dessus régulièrement, vous serez plus critique sur votre propre travail
 
 Transition : Et quand vous faites ça, un autre aspect du métier qui prend du temps pointe le bout de son nez
@@ -241,6 +245,8 @@ Réseaux
 
 [NOTE.speaker]
 ====
+* Le réseau
+
 * Prenez soin de vos réseaux pro
 * Publier des trucs que vous avez fait, vu lu
 * Répondez sur LinkedIn, y'a des humains (des fois) au bout du fil

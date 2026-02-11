@@ -38,6 +38,8 @@ image::illustrations/zen.png[background, size=cover]
 * Donner quelques conférences
 * Former à la séc', à l'a11y, etc.
 * Tout en étant en ESN
+
+Transition : Mais comment diable est-ce possible ?
 ====
 
 [%notitle]
@@ -52,5 +54,5 @@ de la veille
 * Avec un taux d'occupation à 100%
 * Moins vrai ajd
 
-Transition : Revenons à la base
+Transition : Bon, revenons à la base
 ====

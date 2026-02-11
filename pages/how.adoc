@@ -91,6 +91,8 @@ Shutdown
 
 [NOTE.speaker]
 ====
+* Eteignez vos ordis
+
 * Si lorsque vous vous remettez devant votre écran, vous avez déjà tout d'ouvert, vous retombez tout de suite à votre quotidien
 * Vous n'avez pas le temps de vous remettre tranquillement au boulot
 * Vous ne faites plus des journées de 8heures, mais des journées d'une semaine avec des grandes pauses

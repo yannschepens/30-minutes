@@ -16,7 +16,7 @@ image::illustrations/hubble.png[background, size=cover]
 ** Du mentorat, indispensable
 ** Construire un reseau pro
 
-Transition : Et tout ça, ben ça demande du
+Transition : Et tout ça, ben ça demande du temps
 ====
 
 [.veille-tech]
@@ -30,7 +30,7 @@ Pas le temps
 ====
 * On ne va pas partir dans des réflexions métaphysiques
 * Mais c'est une notion qui peut frustrer
-* Car on manque souvent
+* Car on en manque souvent
 * Plus précisement :
 ** On ne le prend pas
 ** On ne nous en donne pas
@@ -52,7 +52,7 @@ image::illustrations/hubble.png[background, size=cover]
 ** Lire des articles, suivre des flux, etc.
 * On fait ou essaye de faire notre veille pour rester à jour
 
-Transition : mais dans le monde de l'IT, c'est grand
+Transition : mais le monde de l'IT, c'est grand
 ====
 
 [.veille-tech]
@@ -85,7 +85,7 @@ Selon moi, une veille efficace permet de :
 * Rester à l'état de l'art sur vos sujets de prédilections
 * Partagez
 
-Transition: Mais surtout
+Transition: Mais surtout pratiquer
 
 ====
 
