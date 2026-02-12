@@ -2,13 +2,6 @@
     color: #EFEFEF;
 }
 
-.reveal.slide {
-    background-image: url("../images/tnt.png"), url("../images/onepoint-white.png");
-    background-size: 150px, 200px;
-    background-position:  calc(0% + 15px) calc(100% - 15px), calc(100% - 15px) calc(100% - 15px);
-    background-repeat: no-repeat, no-repeat;
-}
-
 .reveal section img {
     padding: 25px;
     background: none;
