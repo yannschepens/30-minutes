@@ -1,7 +1,16 @@
 = Merci, des questions ?
 :imagesdir: assets/default/images
+:figure-caption!:
+
 
 image::illustrations/zen.png[background, size=cover]
 
 [.qrcode]
-image::qrcode.png[]
+[cols="2,2", frame=none, grid=none]
+|===
+a|image::qrcode.png[]
+a|image::article.png[]
+|===
+
+
+
