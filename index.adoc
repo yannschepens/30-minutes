@@ -23,7 +23,7 @@ a|[.yann-intro-title]
 Tricher pour mieux apprendre : 30 minutes par jour
 
 [.yann-intro-event]
-Touraine Tech : 13 fev. 2026
+Breizhcamp : 26 juin 2026
 |===
 
 include::pages/start.adoc[leveloffset=+1]
