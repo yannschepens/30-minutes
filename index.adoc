@@ -23,7 +23,7 @@ a|[.yann-intro-title]
 Tricher pour mieux apprendre : 30 minutes par jour
 
 [.yann-intro-event]
-Breizhcamp : 26 juin 2026
+BDX/IO : 28 oct. 2026
 |===
 
 include::pages/start.adoc[leveloffset=+1]

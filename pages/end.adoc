@@ -5,12 +5,4 @@
 
 image::illustrations/zen.png[background, size=cover]
 
-[.qrcode]
-[cols="2,2", frame=none, grid=none]
-|===
-a|image::qr-code.svg[]
-a|image::article.png[]
-|===
-
-
-
+image::article.png[]
